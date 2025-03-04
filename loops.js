@@ -39,3 +39,5 @@ while (index < studentMarks.length) {
 }
 
 //Rewrite this loop using a for loop
+
+// Rewrite tis (grading) code using a switch statement

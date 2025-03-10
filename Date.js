@@ -29,3 +29,5 @@ console.log(recievedDate.getDay()); // Day of the week from 0 sunday to 6 saturd
 //Intl Object formatting dates, currencies.... (Intl - International)
 
 console.log(new Intl.DateTimeFormat("en-GB").format(recievedDate));
+
+// web scrapping
